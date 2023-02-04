@@ -25,7 +25,9 @@ while r[0] != 'W' and r[1] != 'e':
     r = requests.get(new_url).text
 
     print(new_url)
-print(r)
+print(r) # test
+
+#test
 
 
 
